@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **https://www.linkedin.com/in/sambhav-rana-b03558229/**
+- 📫 How to reach me **https://www.linkedin.com/in/sambhavnrana**
 
 - ⚡ Fun fact **Python was NOT named after a snake !**
 
