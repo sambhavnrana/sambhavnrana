@@ -1,5 +1,8 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I%27m+Sambhav.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" /></h1>
-<h3 align="center">A passionate developer from भारत (India)</h3>
+<h1 align="center">
+    <a href="https://sambhavnrana.vercel.app" target="_blank">
+        <img src="https://raw.githubusercontent.com/sambhavnrana/sambhavnrana/master/name.svg" alt="A T" />
+    </a>
+</h1><h3 align="center">A passionate developer from भारत (India)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sambhavrana27&label=Profile%20views&color=0e75b6&style=flat" alt="sambhavrana27" /> </p>
 
