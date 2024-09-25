@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://sambhavnrana.vercel.app" target="_blank">
+    <a href="https://www.sambhavrana.me/" target="_blank">
         <img src="https://raw.githubusercontent.com/sambhavnrana/sambhavnrana/master/name.svg" alt="A T" />
     </a>
 </h1>
@@ -7,7 +7,7 @@
 <h1 align="center" style="text-decoration: none;">A passionate developer from भारत (India) 🇮🇳</h1>
 
 
-<p align="center">     <a href="https://sambhavnrana.vercel.app" target="_blank">
+<p align="center">     <a href="https://www.sambhavrana.me/" target="_blank">
 <img width=25% height=15% src="https://komarev.com/ghpvc/?username=sambhavrana27&label=Profile%20views&color=orange&style=flat" alt="sambhavnrana" /> </p>
     </a>
 
